@@ -1,0 +1,1 @@
+wxRibbonMSW10ArtProvider
