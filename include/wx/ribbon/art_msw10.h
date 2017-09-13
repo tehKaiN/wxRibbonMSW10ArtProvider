@@ -1,5 +1,5 @@
 ///////////////////////////////////////////////////////////////////////////////
-// Name:        wx/ribbon/art.h
+// Name:        wx/ribbon/art_msw10.h
 // Purpose:     Windows10 art provider for ribbon-bar-style interface
 // Author:      Marcin Nowosad
 // Modified by:

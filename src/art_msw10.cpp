@@ -1,5 +1,5 @@
 ///////////////////////////////////////////////////////////////////////////////
-// Name:        wx/ribbon/art.h
+// Name:        wx/ribbon/art_msw10.h
 // Purpose:     Windows10 art provider for ribbon-bar-style interface
 // Author:      Marcin Nowosad
 // Modified by:
@@ -9,7 +9,7 @@
 ///////////////////////////////////////////////////////////////////////////////
 
 #include <wx/wx.h>
-#include "art_msw10.h"
+#include <wx/ribbon/art_msw10.h>
 
 void wxRibbonMSW10ArtProvider::DrawPageBackground(wxDC &dc, wxWindow *wnd, const wxRect &rect)
 {
